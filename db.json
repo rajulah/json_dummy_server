@@ -1,7 +1,12 @@
-            {
-               id:45,
-               qty:345,
-               name: 'abcdakshdkajskdas',
-               price:23432,
-               total:12321123123
-            }
+
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
