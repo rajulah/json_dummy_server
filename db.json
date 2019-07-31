@@ -1,32 +1,32 @@
 {
-      products: [
+      "products": [
          {
-            id: 1,
-            qty: 3,
-            name: 'Aashirvaad Atta',
-            price: 2500,
-            total: 7500
+            "id": 1,
+            "qty": 3,
+            "name": "Aashirvaad Atta",
+            "price": 2500,
+            "total": 7500
          },
          {
-            id: 2,
-            qty: 1,
-            name: 'apples',
-            price: 500.5,
-            total: 500.5
+            "id": 2,
+            "qty": 1,
+            "name": "apples",
+            "price": 500.5,
+            "total": 500.5
          },
          {
-            id: 3,
-            qty: 2,
-            name: 'oranges',
-            price: 45.9,
-            total: 91.8
+            "id": 3,
+            "qty": 2,
+            "name": "oranges",
+            "price": 45.9,
+            "total": 91.8
          },
          {
-            id: 4,
-            qty: 20,
-            name: 'amul milk',
-            price: 15,
-            total: 300
+            "id": 4,
+            "qty": 20,
+            "name": "amul milk",
+            "price": 15,
+            "total": 300
          }
       ]
    }
