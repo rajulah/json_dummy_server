@@ -1,9 +1,11 @@
-            {
-              'products': [
-                          {id:45,
-               qty:345.6,
-               name: ' abcdakshdkajskdas',
-               price:23432,
-               total:12321123123}
-            ]
-            }
+{
+  "products": [
+    {
+      "id": 45,
+      "qty":345,
+      "name":'asdsadas',
+       price:3434,
+       total:3423
+    }
+  ]
+}
