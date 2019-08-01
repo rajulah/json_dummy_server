@@ -13,31 +13,31 @@
       "products" : 
       [
          {
-            "id": 1,
-            "qty": 3,
-            "name": "Aashirvaad Atta",
-            "price": 2500,
+            "id_product": 54114,
+            "quantity": 3,
+            "product_name": "PANEER",
+            "selling_price": 2500,
             "total": 7500
          },
          {
-            "id": 2,
-            "qty": 1,
-            "name": "apples",
-            "price": 500.5,
+            "id_product": 54115,
+            "quantity": 1,
+            "product_name": "TOOR DAL PREMIUM",
+            "selling_price": 500.5,
             "total": 500.5
          },
          {
-            "id": 3,
-            "qty": 2,
-            "name": "oranges",
-            "price": 45.9,
+            "id_product": 55985,
+            "quantity": 2,
+            "product_name": "GARLIC BUTTER BREAD",
+            "selling_price": 45.9,
             "total": 91.8
          },
          {
-            "id": 4,
-            "qty": 20,
-            "name": "amul milk",
-            "price": 15,
+            "id_product": 55187,
+            "quantity": 20,
+            "product_name": "amul milk",
+            "selling_price": 15,
             "total": 300
          }
       ],
