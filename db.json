@@ -46,7 +46,7 @@
                   ],
 
                     "address": 
-                  [
+                  
                       {
                           "id": "47314",
                           "id_order": "63489",
@@ -67,7 +67,7 @@
                           "updated": "2019-07-29 08:30:03",
                            "customer_notes" : "Take left after crossing bla bla bla"
                       }
-                  ],
+                  ,
                   
                    "activities" : 
                   [
