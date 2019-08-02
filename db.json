@@ -1,105 +1,110 @@
-{"data": [{
-      "order" : 
-      [
-         {
-            "invoice_no": "9879870",
-            "id": "63489",
-            "pay_type": "Card on Delivery",
-            "placed_on": "2019-07-29 14:00:02",
-            "delivery_charge" : "39",
-            "total_selling_price": "2469"
-         }
-      ],
-      "products" : 
-      [
-         {
-            "id_product": 54114,
-            "quantity": 3,
-            "product_name": "PANEER",
-            "selling_price": 2500,
-            "total": 7500
-         },
-         {
-            "id_product": 54115,
-            "quantity": 1,
-            "product_name": "TOOR DAL PREMIUM",
-            "selling_price": 500.5,
-            "total": 500.5
-         },
-         {
-            "id_product": 55985,
-            "quantity": 2,
-            "product_name": "GARLIC BUTTER BREAD",
-            "selling_price": 45.9,
-            "total": 91.8
-         },
-         {
-            "id_product": 55187,
-            "quantity": 20,
-            "product_name": "amul milk",
-            "selling_price": 15,
-            "total": 300
-         }
-      ],
-          
-        "address": 
-      [
-          {
-              "id": "47314",
-              "id_order": "63489",
-              "name": "RAJENDRA PRASAD",
-              "address1": "104, 4TH MAIN",
-              "address2": "VIJAYA BANK LAYOUT, SUNDAR RAM SHETTY NAGAR",
-              "city": "BENGALURU - 560076",
-              "state": "KARNATAKA",
-              "country": "India",
-              "pincode": "560076",
-              "lat": "0",
-              "lon": "0",
-              "phone": "7829055998",
-              "alias": "",
-              "company": "none",
-              "type": "home",
-              "landmark": "NEAR AYYAPPA SWAMY TEMPLE, BEHIND WATER TANK",
-              "updated": "2019-07-29 08:30:03",
-               "customer_notes" : "Take left after crossing bla bla bla"
-          }
-      ],
-       "activities" : 
-      [
-        {"activity" : "Return Picked <a href=\"javascript:void(0)\">#ReturnPicked</a>",
-        "date": "Just Now",
-        "id": 1,
-        "status": "primary"},
-        {"activity" : "Return status <a href=\"javascript:void(0)\">#OutForPicking</a>",
-        "date": "1 Aug 2019 12pm",
-        "id": 1,
-        "status": "danger"},
-        {"activity" : "Return requested <a href=\"javascript:void(0)\">#ReturnRequest</a>",
-        "date": "1 Aug 9am",
-        "id": 1,
-        "status": "primary"},
-        {"activity" : "Order <a href=\"javascript:void(0)\">#Delivered</a>",
-        "date": "31 July 6pm",
-        "id": 1,
-        "status": "danger"},
-        {"activity" : "Order <a href=\"javascript:void(0)\">#OutForDelivery</a>",
-        "date": "31 July 5pm",
-        "id": 1,
-        "status": "primary"},
-        {"activity" : "Finished task <a href=\"javascript:void(0)\">#Packing</a>",
-        "date": "31 July 4:45pm",
-        "id": 1,
-        "status": "danger"},
-        {"activity" : "Started task <a href=\"javascript:void(0)\">#Packing</a>",
-        "date": "31 July 4:30pm",
-        "id": 1,
-        "status": "primary"},
-        {"activity" : "Order status <a href=\"javascript:void(0)\">#placed</a>",
-        "date": "30 July 5pm",
-        "id": 1,
-        "status": "primary"}
-        
-    ]
-   }
-        ]}
+{
+   "data": [
+            {
+                  "order" : 
+                  [
+                     {
+                        "invoice_no": "9879870",
+                        "id": "63489",
+                        "pay_type": "Card on Delivery",
+                        "placed_on": "2019-07-29 14:00:02",
+                        "delivery_charge" : "39",
+                        "total_selling_price": "2469"
+                     }
+                  ],
+                  
+                  "products" : 
+                  [
+                     {
+                        "id_product": 54114,
+                        "quantity": 3,
+                        "product_name": "PANEER",
+                        "selling_price": 2500,
+                        "total": 7500
+                     },
+                     {
+                        "id_product": 54115,
+                        "quantity": 1,
+                        "product_name": "TOOR DAL PREMIUM",
+                        "selling_price": 500.5,
+                        "total": 500.5
+                     },
+                     {
+                        "id_product": 55985,
+                        "quantity": 2,
+                        "product_name": "GARLIC BUTTER BREAD",
+                        "selling_price": 45.9,
+                        "total": 91.8
+                     },
+                     {
+                        "id_product": 55187,
+                        "quantity": 20,
+                        "product_name": "amul milk",
+                        "selling_price": 15,
+                        "total": 300
+                     }
+                  ],
+
+                    "address": 
+                  [
+                      {
+                          "id": "47314",
+                          "id_order": "63489",
+                          "name": "RAJENDRA PRASAD",
+                          "address1": "104, 4TH MAIN",
+                          "address2": "VIJAYA BANK LAYOUT, SUNDAR RAM SHETTY NAGAR",
+                          "city": "BENGALURU - 560076",
+                          "state": "KARNATAKA",
+                          "country": "India",
+                          "pincode": "560076",
+                          "lat": "0",
+                          "lon": "0",
+                          "phone": "7829055998",
+                          "alias": "",
+                          "company": "none",
+                          "type": "home",
+                          "landmark": "NEAR AYYAPPA SWAMY TEMPLE, BEHIND WATER TANK",
+                          "updated": "2019-07-29 08:30:03",
+                           "customer_notes" : "Take left after crossing bla bla bla"
+                      }
+                  ],
+                  
+                   "activities" : 
+                  [
+                    {"activity" : "Return Picked <a href=\"javascript:void(0)\">#ReturnPicked</a>",
+                    "date": "Just Now",
+                    "id": 1,
+                    "status": "primary"},
+                    {"activity" : "Return status <a href=\"javascript:void(0)\">#OutForPicking</a>",
+                    "date": "1 Aug 2019 12pm",
+                    "id": 1,
+                    "status": "danger"},
+                    {"activity" : "Return requested <a href=\"javascript:void(0)\">#ReturnRequest</a>",
+                    "date": "1 Aug 9am",
+                    "id": 1,
+                    "status": "primary"},
+                    {"activity" : "Order <a href=\"javascript:void(0)\">#Delivered</a>",
+                    "date": "31 July 6pm",
+                    "id": 1,
+                    "status": "danger"},
+                    {"activity" : "Order <a href=\"javascript:void(0)\">#OutForDelivery</a>",
+                    "date": "31 July 5pm",
+                    "id": 1,
+                    "status": "primary"},
+                    {"activity" : "Finished task <a href=\"javascript:void(0)\">#Packing</a>",
+                    "date": "31 July 4:45pm",
+                    "id": 1,
+                    "status": "danger"},
+                    {"activity" : "Started task <a href=\"javascript:void(0)\">#Packing</a>",
+                    "date": "31 July 4:30pm",
+                    "id": 1,
+                    "status": "primary"},
+                    {"activity" : "Order status <a href=\"javascript:void(0)\">#placed</a>",
+                    "date": "30 July 5pm",
+                    "id": 1,
+                    "status": "primary"}
+
+                 ]
+                }
+        ]
+}
